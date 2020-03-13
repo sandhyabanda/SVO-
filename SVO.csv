@@ -1,0 +1,43 @@
+,revno,sentence,subject,verb,object
+0,1,"'Great phone, I went with this phone to replace my HTC Trophy as my windows phone.","I: -PRON-: PRON,",went,"Trophy: Trophy: PROPN,"
+1,1,Just to let you all know I am using this phone over an Iphone 4s and a Nexus 4.,"you: -PRON-: PRON,I: -PRON-: PRON,",let,"phone: phone: NOUN,"
+2,1,This is a rock-solid phone and love it.,"This: this: DET,",is,"it: -PRON-: PRON,"
+3,1,"Windows Phone 7.8 is still a great OS, no need for WP8'","Phone: Phone: PROPN,",is,
+4,2,"""UPDATE: MMS function is roken.",,UPDATE,
+5,2,The phone can neither receive nor send images and videos via text.,"phone: phone: NOUN,",receive,"images: image: NOUN,"
+6,2,"I've tried trouleshooting it using every trick I could find on the internet including the official forums of Microsoft, Nokia and my career, with no result other than wasting almost an entire morning.","I: -PRON-: PRON,I: -PRON-: PRON,",tried,"it: -PRON-: PRON,trick: trick: NOUN,"
+7,2,"And I am very tech-savvy (seriously, I've hacked all my kindles so far.","I: -PRON-: PRON,I: -PRON-: PRON,",hacked,"kindles: kindle: NOUN,"
+8,2,I use Linux.,"I: -PRON-: PRON,",use,"Linux: Linux: PROPN,"
+9,2,"If I can't solve the prolem, not many can.","I: -PRON-: PRON,many: many: ADJ,",can,"prolem: prolem: NOUN,"
+10,2,)<r /><r />I deduct 2 stars from my 3-star review ecause this is kind of a ig deal for most users.,"this: this: DET,",is,"stars: star: NOUN,"
+11,2,"Come on MS and Nokia, how do you expect to survive against Apple and Android with a prolem like this?<r /><r />UPDATE: Zune constantly causes troule.","you: -PRON-: PRON,Zune: Zune: PROPN,",causes,"troule: troule: NOUN,"
+12,2,"Every time I need to connect my phone to my Win 7 pro pc, I need to trouleshoot manually from the device manager to get the PC recognize the phone.","I: -PRON-: PRON,I: -PRON-: PRON,PC: pc: NOUN,",need,"phone: phone: NOUN,pc: pc: NOUN,phone: phone: NOUN,"
+13,2,"If this happened in 2004, I would understand.","this: this: DET,I: -PRON-: PRON,",understand,
+14,2,"Back then, our standards of plug-n-play were much lower.","standards: standard: NOUN,",were,
+15,2,"Now, they are high and especially ecause THIS IS A WINDOWS PHONE CONNECTING TO A WINDOWS PC.","they: -PRON-: PRON,THIS: this: DET,",IS,
+16,2,How would the people who uy iphones feel if they connect it to their macooks and it fails to even recognize the device?,"people: people: NOUN,iphones: iphone: NOUN,they: -PRON-: PRON,it: -PRON-: PRON,",How,"who: who: PRON,it: -PRON-: PRON,device: device: NOUN,"
+17,2,Dum right?,"Dum: Dum: PROPN,",right,
+18,2,"So, I take a star off.","I: -PRON-: PRON,",take,"star: star: NOUN,"
+19,2,"Still good phone for the price, ut if you can afford a good android, go for it I say.<r /><r />ORIGINAL REVIEW:<r /><r />I ought this phone new on another wesite (woot.com, affiliate of amazon) for 199.99, it was a great argain for the price.","you: -PRON-: PRON,I: -PRON-: PRON,/>I: />I: PROPN,phone: phone: NOUN,it: -PRON-: PRON,",was,"android: android: NOUN,"
+20,2,I would consider uying at Amazon.com is price too.<r /><r />Pros:<r /><r />1- Very responsive touchscreen.,"I: -PRON-: PRON,",touchscreen,
+21,2,I can't tell the difference etween the latest iphone and Lumia 900 in this regard.<r />2- Light.<r />3- Sleek look.<r />4- Unlocked.,"I: -PRON-: PRON,",Unlocked,"etween: etween: VERB,iphone: iphone: NOUN,"
+22,2,(T-moile doesn't list 900 on their compatile phones list ut everything works including 4g)<r />5- Great price.<r /><r />Cons:<r /><r />1- Zune.,"moile: moile: PROPN,everything: everything: PRON,",Zune,"900: 900: NUM,"
+23,2,To connect it to a computer you have to install Zune.,"you: -PRON-: PRON,",connect,"it: -PRON-: PRON,Zune: Zune: PROPN,"
+24,2,"Windows 7 doesn't even recognize the phone without Zune (which is ironic, ecause it is after all a windows phone), I don't like producers shoving down clinger-ware down my throat just ecause they can.","Windows: window: NOUN,which: which: DET,it: -PRON-: PRON,I: -PRON-: PRON,they: -PRON-: PRON,",ecause,"phone: phone: NOUN,producers: producer: NOUN,ware: ware: VERB,throat: throat: NOUN,"
+25,2,The device has 16 GB memory (12 availale after OS and updates).,"device: device: NOUN,",has,"memory: memory: NOUN,"
+26,2,"So, why the hell not install the communication protocol on it and don't make me use Zune as interface.<r />2- The landscape mode is a it glitchy.","hell: hell: NOUN,me: -PRON-: PRON,mode: mode: NOUN,it: -PRON-: PRON,",is,"protocol: protocol: NOUN,Zune: Zune: PROPN,"
+27,2,It keeps going ack to the portrait mode when you enter a new contact to your phone ook.,"It: -PRON-: PRON,you: -PRON-: PRON,",keeps,"ack: ack: NOUN,contact: contact: NOUN,"
+28,2,You have to turn and twist it a it to get it ack to landscape.<r />3- Not as many apps.,"You: -PRON-: PRON,it: -PRON-: PRON,",apps,"it: -PRON-: PRON,it: -PRON-: PRON,"
+29,2,Most app developers consider windows platform a dead-duck.,"developers: developer: NOUN,windows: window: NOUN,",consider,"duck: duck: NOUN,"
+30,2,"So, if you want to use the newest apps, stick to apple or android.<r /><r />In-etweens:<r /><r />1- Camera.","you: -PRON-: PRON,",Camera,"apps: app: NOUN,"
+31,2,It works well for a phone camera ut nothing to write home aout.<r />2- Sound quality.,"It: -PRON-: PRON,",quality,"nothing: nothing: PRON,"
+32,2,Works well.,,Works,
+33,2,Again nothing special.,"nothing: nothing: PRON,",special,
+34,2,"The speakers can get very loud, do you really want to use your phone speakers to listen to music?<r /><r />Verdict: Solid smart phone for the price.","speakers: speaker: NOUN,you: -PRON-: PRON,",phone,"speakers: speaker: NOUN,"
+35,2,"It is near unjustifiale to pay triple for the newest Iphone or Android machine unless you are crazy aout the apps.""","It: -PRON-: PRON,you: -PRON-: PRON,",is,"triple: triple: ADJ,"
+36,3,'very nice excellent cell phone access is highly recommended fast internet has many applications to download and it works very well the truth is excellent uy!',"access: access: NOUN,internet: internet: NOUN,it: -PRON-: PRON,truth: truth: NOUN,",has,"applications: application: NOUN,"
+37,4,"""Overall a good phone, not a ig fan of the app/game collection though.",,phone,
+38,4,Have to press the ack utton a hundred times to 'close' out of pages I've opened or they keep running.,"I: -PRON-: PRON,they: -PRON-: PRON,",Have,"utton: utton: PROPN,"
+39,4,"Its got Zune instead of iTunes.""","Its: -PRON-: DET,",got,"Zune: Zune: PROPN,"
+40,5,'not happy with the limited apps for this phone.,,happy,
+41,5,I guess I will try it for a few more months.',"I: -PRON-: PRON,I: -PRON-: PRON,",guess,"it: -PRON-: PRON,"
